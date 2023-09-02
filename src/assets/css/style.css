@@ -1303,6 +1303,10 @@ textarea:focus {
     text-align: center;
   }
 
+  .timer1 {
+    margin: auto;
+  }
+
   .contacts_info {
     margin-top: 3rem;
   }
